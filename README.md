@@ -17,7 +17,7 @@ The Weather App is a React-based web application that provides real-time weather
 
 
 2. **Navigate to the project directory:**
-   cd your-repository-name 
+   cd weatherApp 
    
 3. **Install dependencies: You need Node.js installed on your system. Install dependencies using:**
   npm install
